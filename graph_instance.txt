@@ -1,0 +1,14 @@
+# Formato: nodo1 nodo2 costo
+# Grafo completo con 7 nodi e 12 archi
+1 2 9
+1 3 6
+2 3 11
+2 4 1
+2 5 20
+3 4 2
+3 6 18
+4 5 13
+4 6 28
+4 7 15
+5 7 3
+6 7 25
